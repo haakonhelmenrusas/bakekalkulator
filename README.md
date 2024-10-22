@@ -1,2 +1,2 @@
 # bakekalkulator
-Kalkulator for å ta inn oppskrifter som omdanner til ønsket antall porsjoner
+Kalkulator for å ta inn oppskrifter, som så omdanner oppskriften til ønsket antall porsjoner
